@@ -179,9 +179,8 @@ function App() {
               marginBottom: '1rem',
             }}
           >
-            <Link
+            <a
               href="https://petervillanueva.github.io/Modern-Weather/"
-              target="_blank"
               underline="none"
             >
               <Box
@@ -193,7 +192,7 @@ function App() {
               alt="logo"
               src={Logo}
             />
-            </Link>
+            </a>
 
             <UTCDatetime />
             <Link

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Modern-Weather-Main/static/css/main.ba9374b6.css",
+    "main.js": "/Modern-Weather-Main/static/js/main.e50cafb9.js",
+    "static/media/splash-icon.svg": "/Modern-Weather-Main/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/Modern-Weather-Main/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/Modern-Weather-Main/index.html",
+    "main.ba9374b6.css.map": "/Modern-Weather-Main/static/css/main.ba9374b6.css.map",
+    "main.e50cafb9.js.map": "/Modern-Weather-Main/static/js/main.e50cafb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba9374b6.css",
+    "static/js/main.e50cafb9.js"
+  ]
+}
